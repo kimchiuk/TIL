@@ -121,3 +121,25 @@ rspository
  커밋 들이 저장되는 곳
  ```
 
+
+
+-------------------------------
+
+ git add readme.md    
+ staging Area 로 보내기
+
+ git commit -m " 할 말 "   
+ 커밋 하기
+
+ git add .  
+ 모든 파일 보내기
+
+---------------------
+github repository
+                           
+local repositiory
+
+---
+
+readme.md 수정하고 push하기.
+
